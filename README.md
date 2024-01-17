@@ -11,4 +11,9 @@ chaque membre a créer une section individuel (accueil,présentation,contact)
 
 A chaque push une description du changement a été expliqué en tant que titre du push
 
+Nous n'avions pas compris comment cela fonctionnait cependant la documentation sur internet nous a beaucoup aidé 
+
 On a créé 3 branch qu'on a fusionner sur main
+
+Après concertation a 3 et une review rapide du code nous avons effectué un merge sur la branche dev et réeffctuons avant de merge sur la branche main
+
