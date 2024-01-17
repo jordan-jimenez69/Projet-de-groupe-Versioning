@@ -11,3 +11,4 @@ chaque membre a créer une section individuel (accueil,présentation,contact)
 
 A chaque push une description du changement a été expliqué en tant que titre du push
 
+On a créé 3 branch qu'on a fusionner sur main
