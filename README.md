@@ -17,3 +17,5 @@ On a créé 3 branch qu'on a fusionner sur main
 
 Après concertation a 3 et une review rapide du code nous avons effectué un merge sur la branche dev et réeffctuons avant de merge sur la branche main
 
+Notre branche dev nous a servi de release pour effectuer nos tests.
+
