@@ -1,21 +1,21 @@
 # Projet-de-groupe-Versioning
-étape 1 : Création du dépôt
-On a créé le dépôt
 
-étape 2 : Cloner la template sur notre dépôts 
-Chaques membre du groupe a forkent le dépot github.
+Création de notre dépôt GitHub, une fois que le dépôt est créées les membres du groupe duplique le dépôt Git
+Comme suit :
 
-Assignation des sections à chaques membres 
+git remote add upstream https://github.com/jordan-jimenez69/Projet-de-groupe-Versioning.git
+git remote -v / Pour vérifier le nouveau dépôt
 
-chaque membre a créer une section individuel (accueil,présentation,contact) 
+Une fois, le groupe bien synchronise avec dépit, nous récupérons une template que l'on a copier sur le dépit sur la branch main qui par la suite nous a causer des erreurs.
 
-A chaque push une description du changement a été expliqué en tant que titre du push
+Nous avons reformé notre vision pour les systèmes de branches. Donc par la suite créer la branche dev puis chaque membre a créer une section individuelle dans la branche dev (accueil, présentation, contact).
 
-Nous n'avions pas compris comment cela fonctionnait cependant la documentation sur internet nous a beaucoup aidé 
+Sur notre branch individuelle nous faisons des commits réguliers puis une fois une bonne avancée nous merge nos modifications sur la branch DEV.
 
-On a créé 3 branch qu'on a fusionner sur main
+Nous avons mal organiser les Commits au début puis avons pensé par la suite de nommer le commit par la modif effectuer.
 
-Après concertation a 3 et une review rapide du code nous avons effectué un merge sur la branche dev et réeffctuons avant de merge sur la branche main
+Notre branche dev nous a servi de release pour effectuer nos tests. Donc concrètement dev est notre V1 et main notre site final.
 
-Notre branche dev nous a servi de release pour effectuer nos tests.
+Après concertation a 3 et une review rapide du code nous avons effectué un merge sur la branche dev et réeffectuions avant de merge sur la branche main
 
+Nous n'avons pas eu de problème particulier quand on a merge dans la branche dev ou même main.
