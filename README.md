@@ -18,4 +18,4 @@ Notre branche dev nous a servi de release pour effectuer nos tests. Donc concrè
 
 Après concertation a 3 et une review rapide du code nous avons effectué un merge sur la branche dev et réeffectuions avant de merge sur la branche main
 
-Nous n'avons pas eu de problème particulier quand on a merge dans la branche dev ou même main.
+L'un de nous a eu a un problème de concordance lors du merge. mais nous avons fixer ça plutot rapidement
